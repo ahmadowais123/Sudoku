@@ -1,6 +1,6 @@
-#Sudoku Puzzle Solver
+# Sudoku Puzzle Solver
 
-##Usage
+## Usage
 1. Open a terminal
 2. Go to src/
 3. Run 'javac Sudoku.java'
